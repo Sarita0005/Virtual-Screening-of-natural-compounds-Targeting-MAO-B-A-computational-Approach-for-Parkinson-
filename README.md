@@ -132,6 +132,14 @@ This project was completed as part of a 6-month internship in Bioinformatics, AI
 ![Figure 8](results/images/image8.png)
 
 ---
+### Conclusions
+PD is a progressive NDDs affecting million globally, with its incidence rising due to aging populations and environmental risk factors. Current treatments primarily offer symptomatic relief and are often associated with side effects and reduced long- term efficacy. 
+       
+In this study, a computational drug discovery pipeline was utilized to identify plant – derived natural compounds with potential inhibitory activity against MAO-B. A total of seven ligands were selected based in drug- likeness and ADMET properties. Molecular docking analysis revealed that Tetrahydrobisdemethoxycurcumin exhibited the strongest binding affinity (-9.4 kcal/mol), followed by Demethoxycurcumin (-8.3 kcal/mol), Curcumin (-7.2 kcal/mol), Bisdemethoxycurcumin (-7.2 kcal/mol) each forms significant hydrogen bonds, π- π interactions and other hydrophobic interactions with active site residues of MAO-B protein. Post - docking interaction analysis and PPI analysis further supported role of MAO-B and dopamine associated protein in PD pathology. This study highlights the potential of natural MAO-B inhibitors as alternative therapeutic leads for managing PD.
+
+---
+### Future Prospects
+With the increasing global prevalence of Parkinson's Disease (PD) and the limitations of current pharmacological treatments, this study lays a foundational framework for the discovery of natural MAO-B inhibitors using in - silico methods. The findings suggest that plant – derived compounds particularly Tetrahydrobisdemethoxycurcumin, hold a significant promise as potential therapeutic lead. In the future, more advanced computational approaches such as molecular dynamic simulation (MDS), free energy calculation and quantitative structure activity relationship (QSAR) modelling can be employed to further validate and refine these results. These in - silico techniques can significantly reduce the time and cost of drug development while improving precision. Further, experimental validation through in vitro and in vivo studies will be essential to confirm the bioactivity and safety of these compounds. Ultimately, this research contributes to growing evidence supporting natural plant - based products therapeutics and shows how computational tools can be helpful in the search for effective, safer treatments for PD.
 
 
 ---
